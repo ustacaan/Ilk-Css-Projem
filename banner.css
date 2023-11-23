@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner {
+    background-color: #E6F0FF;
+    padding: 25px 40px;
+    width: 670px;
+    height: 270px;
+    border-radius: 20px;
+}
+  
+.banner h4 {
+    margin-bottom: 0;
+}
+
+.banner h1 {
+    margin-top: 10px;
+    margin-bottom: 30px; 
+}
+
+.btn {
+    background-color: rgb(28, 109, 239);
+    text-decoration: none;
+    border-radius: 30px;
+    color: white;
+    padding: 12px 30px;
+}
+
+.btn:hover {
+    background-color: rgb(123, 22, 205);
+    color: white;
+}
+
+.banner img {
+    width: 190px;
+    margin-left: 380px;
+    margin-top: -170px;
+}
+
+ 

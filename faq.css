@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 280px;
+
+}
+
+.faq hr {
+    border-bottom: 0px solid #F0F0F0;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    width: 975px;
+}
+
+.faq h1 {
+    font-size: 26px;
+    margin-top: 150px;
+    margin-bottom: 30px;
+}
+
+.faq h2 {
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 19px;
+    margin-bottom: 19px;
+}
+
+.faq p {
+    margin-bottom: 35px;
+    margin-bottom: 35px
+}
+
+.faq img {
+    width: 15px;
+    margin-inline-start: 960px;
+    position: relative;
+    bottom: 20px;
+}
+ 
+.faq h1 {
+    margin-bottom: 50px;
+}
+
+.faq p {
+    margin-top: -20px;
+}
+
+.hide {
+    display: none;
+}
+
+.show  {
+    display: block;
+}
+  

@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero-saas {
+    background-color: #05285B;
+    width: 975px;
+    height: 693px;
+}
+
+.saasBtn {
+    background-color: #DC3545;
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    padding: 17px 71px;
+    margin-left: 112px;
+    font-size: 20px;
+}
+
+.hero-saas h1, p {
+    color: white;
+    margin-left: 112px;
+    margin-bottom: 0px;
+}
+
+.hero-saas h1 {
+    font-size: 50px;
+}
+
+.pic6 {
+    margin-left: 112px;
+}
+
+.schedule {
+    margin-left: 145px !important;
+    margin-top: -25px;
+    display: flex;
+    align-items: center;
+    color: white !important;
+}
+
+.scheduleOne {
+    margin-left: 115px !important;
+    color: white !important;
+}
+ 
+.pic7 {
+    margin: 0;
+    margin-top: -320px;
+    margin-left: 470px;
+    width: 400px;
+    height: 420px;
+}

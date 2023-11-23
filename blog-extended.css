@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 200px;
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.blog-extended h2 {
+    font-weight: lighter;
+}
+
+.blog-extended h1 {
+    font-size: 55px;
+}
+
+.pic2 {
+    margin-right: 25px;
+    width: 40px;
+}
+
+.blog-extended h4 {
+    font-size: 25px;
+    margin-top: 18px;
+    margin-bottom: 1px;
+}
+
+.blog-extended h3 {
+    font-size: 22px;
+}
+
+.blog-extended p {
+    font-size: 13px;
+    line-height: 1.7;
+    color: black;
+    margin-left: 0px;
+}
+
+.blog-extended h5 {
+    font-size: 12px;
+}
+
+.pic4 {
+    margin-bottom: -2px;
+}
+ 
